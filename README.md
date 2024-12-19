@@ -215,3 +215,9 @@ git rm -rf .
 [266762548awa](https://github.com/266762548awa)
 [Peng-185](https://github.com/Peng-185/carla_cpp/tree/dev)
 [ysthhhh](https://github.com/ysthhhh/carla_cpp)、
+[ylsj666](https://github.com/ylsj666/carla_cpp.git)、
+[2209040022ll](https://github.com/2209040022ll/carla_cpp.git)、
+[moon884](https://github.com/moon884/carla_cpp.git)、
+[haoCui-hutb](https://github.com/haoCui-hutb)
+[caicaiyo](https://github.com/caicaiyo)
+[2899661520](https://github.com/2899661520)
